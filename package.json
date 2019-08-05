@@ -1,0 +1,17 @@
+{
+  "name": "com.duckdns.jast.plugin.beautifultoasty",
+  "version": "1.0.0",
+  "description": "Beautiful toasty",
+  "cordova": {
+    "id": "com.duckdns.jast.plugin.beautifultoasty",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "jast1000",
+  "license": "ISC"
+}
